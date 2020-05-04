@@ -9,7 +9,7 @@ A vocabulary bank manager that helps you learning only useful words
 * [Hanzi Microservice](https://github.com/Jayrome974/hanzi_springmvc)
 
 ## URL
-https://learnusefulwords.com/
+https://learnusefulwords.com
 
 ## Author
 Jérôme Hoarau
