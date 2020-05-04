@@ -4,7 +4,7 @@
 ![application_architecture](/misc/application_architecture.png)
 
 ## Modules
-* [Static Website](https://github.com/Jayrome974/hanzi_ui)
+* [Static Web Content](https://github.com/Jayrome974/hanzi_ui)
 * [Hanzi Microservice](https://github.com/Jayrome974/hanzi_springmvc)
 
 ## URL
