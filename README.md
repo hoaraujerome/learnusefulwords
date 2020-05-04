@@ -1,6 +1,5 @@
 # Learn Useful Words
-A vocabulary bank manager that helps you learning only useful words <br />
-https://learnusefulwords.com/
+A vocabulary bank manager that helps you learning only useful words
 
 ## Application Architecture
 ![application_architecture](/misc/application_architecture.png)
@@ -8,6 +7,9 @@ https://learnusefulwords.com/
 ## Modules
 * [Static Web Content](https://github.com/Jayrome974/hanzi_ui)
 * [Hanzi Microservice](https://github.com/Jayrome974/hanzi_springmvc)
+
+## URL
+https://learnusefulwords.com/
 
 ## Author
 Jérôme Hoarau
