@@ -4,7 +4,8 @@
 ![application_architecture](/misc/application_architecture.png)
 
 ## Modules
-### Frontend : [frontend](https://github.com/Jayrome974/hanzi_ui)
+* Static Website : [frontend](https://github.com/Jayrome974/hanzi_ui)
+* Hanzi Microservice : [backend](https://github.com/Jayrome974/hanzi_springmvc)
 
 ## Author
 Jérôme Hoarau
