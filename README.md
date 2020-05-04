@@ -1,5 +1,5 @@
 # Learn Useful Words
-A vocabulary bank manager that helps you learning only useful words
+A vocabulary bank manager that helps you learning only useful words <br />
 https://learnusefulwords.com/
 
 ## Application Architecture
