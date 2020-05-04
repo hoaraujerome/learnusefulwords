@@ -1,4 +1,5 @@
 # Learn Useful Words
+A vocabulary bank manager that helps you learning only useful words
 
 ## Application Architecture
 ![application_architecture](/misc/application_architecture.png)
