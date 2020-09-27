@@ -1,8 +1,8 @@
 # Learn Useful Words
 A vocabulary bank manager that helps you learning only useful words
 
-## Application Architecture
-![application_architecture](/misc/application_architecture.png)
+## Application Architecture - Containers Stack
+![application_architecture](/misc/application_architecture_containers.png)
 
 ## Modules
 * [Static Web Content](https://github.com/Jayrome974/hanzi_ui)
