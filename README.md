@@ -12,10 +12,10 @@ Infrastructure as Code Tool : Terraform
 ## Modules
 ### Serverless Stack
 * Static WebContent : [Vue.js](https://github.com/Jayrome974/hanzi_ui_vue)
-* Serverless Stack : [Hanzi API Lambda](https://github.com/Jayrome974/hanzi_api_serverless)
+* Serverless Stack : [API Lambda](https://github.com/Jayrome974/hanzi_api_serverless)
 ### Containers Stack
 * Static WebContent : [Vanilla JavaScript](https://github.com/Jayrome974/hanzi_ui)
-* Containers Stack : [Hanzi API Spring Boot](https://github.com/Jayrome974/hanzi_springmvc)
+* Containers Stack : [API Spring Boot](https://github.com/Jayrome974/hanzi_springmvc)
 
 ## URL
 https://learnusefulwords.com
