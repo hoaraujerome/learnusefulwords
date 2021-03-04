@@ -1,4 +1,4 @@
-# Learn Useful Words
+# UWords
 UWords helps language students learning words that are most useful to them
 
 ## URL
