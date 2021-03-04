@@ -22,5 +22,13 @@ Infrastructure as Code Tool : Terraform
 * Mobile APP : iOS, Swift 5, Cocoapods, UIkit, Storyboard, OAuthClient
 * Containers Stack : Docker, Spring Boot 2.3.x, REST API, Spring Web MVC, Spring Data DynamoDB, Java 11, Cloud Native Buildpacks
 
+## Screenshots
+* Website
+![uwords_webiste_screenshot](/misc/uwords_website.png)
+
+* iOS APP
+
+![uwords_ios_screenshot](/misc/uwords_ios.png)
+
 ## Author
 Jérôme Hoarau
