@@ -1,5 +1,4 @@
-# UWords
-UWords helps language students learning words that are most useful to them
+# SnapVocab
 
 ## Application Architecture - Containers Stack - Learning Purposes Only
 ![application_architecture](/misc/application_architecture_containers.png)
