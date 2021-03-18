@@ -1,4 +1,4 @@
-# SnapVocab
+# Snapvocab
 
 ## Application Architecture - Containers Stack - Learning Purposes Only
 ![application_architecture](/misc/application_architecture_containers.png)
